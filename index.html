@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Memory Card Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="game-container">
+    <h1>Memory Card Game</h1>
+    <h5 id="level-title">Using Emoji</h5>
+
+    <div class="stats">
+      <p>Moves: <span id="moves">0</span></p>
+      <p>Time: <span id="timer">00:00</span></p>
+      <button id="new-game">Start</button>
+    </div>
+
+    <div class="grid" id="grid"></div>
+
+    <div class="message" id="congrats" style="display: none;">
+      🎉 Congratulations! You Won! 🎉
+      <br>
+      <button id="next" style="margin-top: 10px;">Next →</button>
+    </div>
+
+    <div class="message" id="final" style="display: none;">
+      🎊 You've completed all levels! 🎊
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
