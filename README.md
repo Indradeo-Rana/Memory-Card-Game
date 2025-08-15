@@ -4,13 +4,13 @@ A fun memory matching game built with HTML, CSS, and JavaScript featuring two di
 - Animal's face matching.
 - Random numbers from 1-8.
 
-[![Live Demo](https://img.shields.io/badge/play-Live%20Demo-brightgreen)](https://memory-card-game-dusky-delta.vercel.app)
+[![Live Demo](https://img.shields.io/badge/play-Live%20Demo-brightgreen)](memory-card-game-dusky-delta.vercel.app)
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Inddradeo-Rana/memory-card-game)
 
 ## 🎮 How to Play
 
 ### Start Playing
-- **Live Demo**: [Play Now](https://memory-card-game-dusky-delta.vercel.app)
+- **Live Demo**: [Play Now](memory-card-game-dusky-delta.vercel.app)
 - Automatically level 1: Animal Faces (6x6) appear.
 - After completing level 1, a button for next level will appear
 - Click "Next->" to begin second level.
