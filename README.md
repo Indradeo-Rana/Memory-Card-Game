@@ -1,21 +1,21 @@
 # Memory Card Game - README
 ## Overview
 This is a memory card matching game built with HTML, CSS, and JavaScript. The game features two different levels:
-[Animal Faces Matching - Match pairs of animal faces]
-[Numbers Matching - Match pairs of numbers from 1 to 8]
+- Animal Faces Matching - Match pairs of animal faces.
+- Numbers Matching - Match pairs of numbers from 1 to 8.
 
-https://vercel.com/button
+Live Demo - https://vercel.com/memory-card-game-dusky-delta.vercel.app
 
-# How to Play
+## How to Play
 Starting the Game
-Play online at Live Demo (link : memory-card-game-dusky-delta.vercel.app )
+- Play online at Live Demo (link : https://vercel.com/memory-card-game-dusky-delta.vercel.app )
 
-Or open the index.html file in your web browser locally
+- Or open the index.html file in your web browser locally
 
 Automatically Animal Face Card Game start and after finishing the link of next level will come
 
 
-# Gameplay Rules
+## Game Rules To Play
 The game board consists of a grid of face-down cards (6x6 for Animal Faces, 6x6 for Numbers)
 
 Click on any card to reveal its hidden image/number
