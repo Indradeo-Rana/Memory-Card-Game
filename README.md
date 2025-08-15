@@ -1,32 +1,44 @@
-# Memory Card Game - README
-## Overview
-This is a memory card matching game built with HTML, CSS, and JavaScript. The game features two different levels:
-- Animal Faces Matching - Match pairs of animal faces.
-- Numbers Matching - Match pairs of numbers from 1 to 8.
+# 🧠 Memory Card Game
 
-## Live Demo
-Play the game live here: [https://your-project-name.vercel.app](https://memory-card-game-dusky-delta.vercel.app)
+A fun memory matching game built with HTML, CSS, and JavaScript featuring two different levels.
+- Animal's face matching.
+- Random numbers from 1-8.
 
-## How to Play
-Starting the Game
-- Play online at Live Demo (link : https://vercel.com/memory-card-game-dusky-delta.vercel.app )
+[![Live Demo](https://img.shields.io/badge/play-Live%20Demo-brightgreen)](https://memory-card-game-dusky-delta.vercel.app)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Inddradeo-Rana/memory-card-game)
 
-- Or open the index.html file in your web browser locally
+## 🎮 How to Play
 
-Automatically Animal Face Card Game start and after finishing the link of next level will come
+### Start Playing
+- **Live Demo**: [Play Now](https://memory-card-game-dusky-delta.vercel.app)
+- Automatically level 1: Animal Faces (6x6) appear.
+- After completing level 1, a button for next level will appear
+- Click "Next->" to begin second level.
 
+### Game Rules
+- Click cards to reveal them
+- Find matching pairs:
+  - Match = cards stay revealed
+  - No match = cards flip back
+- Complete all pairs to win
 
-## Game Rules To Play
-The game board consists of a grid of face-down cards (6x6 for Animal Faces, 6x6 for Numbers)
+## ✨ Features
+- Two different game modes
+- Move counter tracking
+- Game timer
+- Win celebration with stats
+- Responsive design
 
-Click on any card to reveal its hidden image/number
+## 🚀 Deployment
 
-Click on a second card to try to find a matching pair
+### Play Online
+[![Live Demo](https://img.shields.io/badge/demo-Vercel-blue)](https://memory-card-game-dusky-delta.vercel.app)
 
-If the two revealed cards match, they will stay face up
+### Deploy Your Own
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/memory-card-game)
 
-If they don't match, they will flip back face down after a short delay
-
-Continue this process until all pairs have been matched
-
-And it will show total moves and total time
+## 🛠️ Development
+```bash
+# Run locally
+python -m http.server 8000
+# Then open http://localhost:8000
