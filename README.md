@@ -4,7 +4,8 @@ This is a memory card matching game built with HTML, CSS, and JavaScript. The ga
 - Animal Faces Matching - Match pairs of animal faces.
 - Numbers Matching - Match pairs of numbers from 1 to 8.
 
-Live Demo - https://vercel.com/memory-card-game-dusky-delta.vercel.app
+## Live Demo
+Play the game live here: [https://your-project-name.vercel.app](https://memory-card-game-dusky-delta.vercel.app)
 
 ## How to Play
 Starting the Game
